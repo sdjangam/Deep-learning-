@@ -1,7 +1,7 @@
 # Deep-learning-
 
 
-# Deep learning
+# Deep learnings
 
 Deep learning has caught a great momentum in the last few years. Research in the field of deep learning is progressing amazingly fast. Deep Learning is a rapidly growing area of machine learning. Machine learning has seen numerous successes but applying learning algorithms today often means spending a long time hand-engineering the input feature representation. This is true for many problems in vision, audio, NLP, robotics, and other areas. To address this, researchers have developed deep learning algorithms that automatically learn a good representation for the input. These algorithms are today enabling many groups to achieve ground-breaking results in vision, speech, language, robotics, and other areas.
 
